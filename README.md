@@ -23,6 +23,7 @@ Developed by the MooAnalytica Research Group at Dalhousie University, CluckTalk 
 ## Authors
 
 Daniel Edison Essien
+
 Suresh Raja Neethirajan
 
 MooAnalytica Research Group
