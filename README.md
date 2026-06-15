@@ -124,11 +124,7 @@ The software embeds a curated behavioral vocalization matrix categorized into ni
 
 ## 5. Application Screenshots & User Interface
 
-The repository contains visual configurations outlining screen layouts from physical iPhone device runs:
-
-- `docs/screenshots/dashboard.png` — Unified Home Dashboard View showing Top Search Bar and Filter Rows.
-- `docs/screenshots/playback.png` — Interactive Playback Sub-System showing Audio Waveforms and Chicken Photographs.
-- `docs/screenshots/quiz.png` — Quiz Assessment & Standalone State Educational Feedback Screens.
+The repository contains visual configurations outlining screen layouts from physical iPhone device runs
 
 ---
 
