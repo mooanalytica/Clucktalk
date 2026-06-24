@@ -2,7 +2,7 @@
 
 [![Flutter](https://img.shields.io/badge/Flutter-%E2%89%A53.4.3-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-%E2%89%A53.4.3%20%3C4.0.0-0175C2?logo=dart&logoColor=white)](https://dart.dev)
-[![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20Android-lightgrey)](#)
+[![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20Android-lightgrey)](https://apps.apple.com/ca/app/clucktalk/id6745618432)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ---
