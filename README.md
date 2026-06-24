@@ -79,7 +79,7 @@ Clone the repository path and execute local asset pipeline packaging:
 
 ```bash
 # Clone repository
-git clone [https://github.com/MooAnalytica/CluckTalk.git](https://github.com/MooAnalytica/CluckTalk.git)
+git clone [https://github.com/MooAnalytica/CluckTalk.git]
 cd CluckTalk
 
 # Pull and link package manifest specifications
